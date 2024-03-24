@@ -1,0 +1,9 @@
+Failure prediction is a major topic in predictive maintenance in many industries. Aircraft manufacturers, OEMs and end users are highly interested in prediction of component failures during the operation so that they can plan maintenance operations and reduce losses due to the time aircraft has spent at the ground. 
+
+Monitoring of the engine health and current condition is based on sensor data analysis and telemetry from the engine sub-systems. It is supposed to promote predictive maintenance by estimating either Time-To-Failure (TTF) or Remaining Useful Life (RUL) for aircraft components that are currently in-service and may be fully functional at the time of testing.
+
+Based on the measurements from the sensors of the aircraft engine, this report details a developed analysis framework providing the following predictions, which are the objectives of this assignment:
+1. Time-To-Failure (TTF) prediction for the engine
+2. Classify which engine will fail in the analysed time period
+
+The aim of the analysis is to enhance the maintenance operations and planning of time-based preventive maintenance of the aircraft engine. This is supposed to be done by applying statistical learning methods being classification and regression.
