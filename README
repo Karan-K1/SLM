@@ -6,4 +6,4 @@ Based on the measurements from the sensors of the aircraft engine, this report d
 1. Time-To-Failure (TTF) prediction for the engine
 2. Classify which engine will fail in the analysed time period
 
-The aim of the analysis is to enhance the maintenance operations and planning of time-based preventive maintenance of the aircraft engine. This is supposed to be done by applying statistical learning methods being regression and classification.
+The aim of the analysis is to enhance the maintenance operations and planning of time-based preventive maintenance of the aircraft engine. This is supposed to be done by applying statistical learning methods being classification and regression.
